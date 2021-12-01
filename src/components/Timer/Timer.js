@@ -1,4 +1,4 @@
-import './timer.css';
+import './Timer.css';
 import { useState, useEffect } from 'react';
 
 export default function Timer({time, step, onTick, onTimeEnd, onTimeStart, onTimePause}){
