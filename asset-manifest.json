@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactjs-effect/static/css/main.a945ecaa.chunk.css",
-    "main.js": "/reactjs-effect/static/js/main.abd6045a.chunk.js",
-    "main.js.map": "/reactjs-effect/static/js/main.abd6045a.chunk.js.map",
+    "main.css": "/reactjs-effect/static/css/main.01d93c5c.chunk.css",
+    "main.js": "/reactjs-effect/static/js/main.81889ce1.chunk.js",
+    "main.js.map": "/reactjs-effect/static/js/main.81889ce1.chunk.js.map",
     "runtime-main.js": "/reactjs-effect/static/js/runtime-main.726771f1.js",
     "runtime-main.js.map": "/reactjs-effect/static/js/runtime-main.726771f1.js.map",
     "static/js/2.8bb8d8c2.chunk.js": "/reactjs-effect/static/js/2.8bb8d8c2.chunk.js",
     "static/js/2.8bb8d8c2.chunk.js.map": "/reactjs-effect/static/js/2.8bb8d8c2.chunk.js.map",
     "index.html": "/reactjs-effect/index.html",
-    "static/css/main.a945ecaa.chunk.css.map": "/reactjs-effect/static/css/main.a945ecaa.chunk.css.map",
+    "static/css/main.01d93c5c.chunk.css.map": "/reactjs-effect/static/css/main.01d93c5c.chunk.css.map",
     "static/js/2.8bb8d8c2.chunk.js.LICENSE.txt": "/reactjs-effect/static/js/2.8bb8d8c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.726771f1.js",
     "static/js/2.8bb8d8c2.chunk.js",
-    "static/css/main.a945ecaa.chunk.css",
-    "static/js/main.abd6045a.chunk.js"
+    "static/css/main.01d93c5c.chunk.css",
+    "static/js/main.81889ce1.chunk.js"
   ]
 }
