@@ -10,6 +10,7 @@ function App() {
         <Timer 
           time={time} 
           step={step}
+          autostars
           onTick={(time) => console.log("Залишилось часу: " + time)}
           onTimeEnd={() => console.log("Час вийшов!")}
           onTimeStart={(timeLeft) => console.log("Таймер запущено!")}
